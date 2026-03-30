@@ -1,0 +1,14 @@
+# Compiled class files
+out/
+*.class
+
+# IntelliJ IDEA
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries
+.idea/shelf
+
+# OS
+.DS_Store
+Thumbs.db
